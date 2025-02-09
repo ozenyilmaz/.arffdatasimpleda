@@ -1,0 +1,2 @@
+# .arffdatasimpleda
+arfdatareadandsimplyexplored
